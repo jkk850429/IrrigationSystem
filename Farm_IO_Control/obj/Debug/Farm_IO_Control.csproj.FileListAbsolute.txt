@@ -1,0 +1,290 @@
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_ProtocalNS.dll
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_Chen_Farm.dll
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+D:\Office\Project\Visual Studio 2013\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\scott\Desktop\新增資料夾\Farm_IO_Control\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\USER\Desktop\1030\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\1101\secondversion\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\1101 mix\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix1\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix2\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix3\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe.config
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\bin\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.exe
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.pdb
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\農業灌溉系統.exe
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\bin\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\Toby\Desktop\Mix5\OurProject\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\農業灌溉系統.exe
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\CS_GeneralNS.dll
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\Toby\Desktop\農業灌溉系統含執行檔\OurProject\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.manifest
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\bin\Debug\Farm_IO_Control.vshost.exe.config
+C:\Users\Toby\Desktop\1116000\Farm_IO_Control\obj\Debug\農業灌溉系統.exe.manifest
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.manifest
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.pdb
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe.manifest
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\scott\Desktop\11  -16 新版\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb
+C:\Users\scott\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\scott\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\scott\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.manifest
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.pdb
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\bin\Debug\Farm_IO_Control.vshost.exe.config
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe.manifest
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\Toby\Desktop\11-29\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\bin\Debug\Resource\Circle Green_Light.png
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\bin\Debug\Resource\Circle Red_Dark.png
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.manifest
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.pdb
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\bin\Debug\CS_Chen_Farm.pdb
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\bin\Debug\CS_ProtocalNS.pdb
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form1.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form2.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form3.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form4.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form5.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form6.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Form7.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.Properties.Resources.resources
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\Farm_IO_Control.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\專題\0106\農業灌溉系統程式\1129 new\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe.manifest
+C:\Users\ASUS\Desktop\農業灌溉系統新版\Farm_IO_Control\bin\Debug\農業灌溉系統.exe.config
+C:\Users\ASUS\Desktop\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.exe
+C:\Users\ASUS\Desktop\農業灌溉系統新版\Farm_IO_Control\obj\Debug\農業灌溉系統.pdb

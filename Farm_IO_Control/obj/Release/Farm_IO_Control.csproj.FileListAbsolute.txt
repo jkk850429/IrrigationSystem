@@ -1,0 +1,9 @@
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Form1.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Form2.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Form3.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Form4.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Form5.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Form6.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Form7.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.Properties.Resources.resources
+C:\Users\Toby\Desktop\Mix4\OurProject\Farm_IO_Control\obj\Release\Farm_IO_Control.csproj.GenerateResource.Cache
